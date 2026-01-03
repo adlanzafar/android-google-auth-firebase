@@ -1,3 +1,3 @@
 | Login | Profil |
 |---|---|
-| ![Login](screenshots/tampilan_login.png) | ![Profil](screenshots/tampilan_profil.png) |
+| ![Login](screenshots/tampilan_login.jpg) | ![Profil](screenshots/tampilan_profil.jpg) |
